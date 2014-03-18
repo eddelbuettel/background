@@ -5,7 +5,7 @@ Author: Simon Urbanek <simon.urbanek@r-project.org>
 Maintainer: Simon Urbanek <simon.urbanek@r-project.org>
 Description: This package porvides infrastructure for servicing
 	     asynchronous tasks in R while R is idle. It provides
-	     building block from steraming and other asynchnonous
+	     building block from streaming and other asynchnonous
 	     processing in R.
 License: GPL-2
 Suggests: parallel
